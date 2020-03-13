@@ -58,6 +58,7 @@
   "tokenWorth": "依據目前的匯率，每個流動性代幣價值",
   "firstLiquidity": "您是第一個提供流動性資金的人！",
   "initialExchangeRate": "初始的匯率將取決於你存入的資金。請確保存入的 ETH 和 {{ label }} 的價值相等。",
+  "initialWarning": "一些未正確實施的ERC20代幣導致移除流動性功能中斷，從而永久鎖定資金。作為第一個流動性提供者，我們建議先測試少量添加和刪除，然後再添加大量。",
   "removeLiquidity": "領出流動性資金",
   "poolTokens": "資金池代幣",
   "enterLabelCont": "輸入 {{ label }} 以繼續。",

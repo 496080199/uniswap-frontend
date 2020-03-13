@@ -58,6 +58,7 @@
   "tokenWorth": "当前兑换率下，每个资金池通证价值",
   "firstLiquidity": "你是第一个添加流动金的人！",
   "initialExchangeRate": "初始兑换率将由你的存入情况决定。请确保你存入的 ETH 和 {{ label }} 具有相同的总市值。",
+  "initialWarning": "一些未正确实施的ERC20代币导致移除流动性功能中断，从而永久锁定资金。作为第一个流动性提供者，我们建议先测试少量添加和删除，然后再添加大量。",
   "removeLiquidity": "删除流动金",
   "poolTokens": "资金池通证",
   "enterLabelCont": "输入 {{ label }} 值并继续。",
